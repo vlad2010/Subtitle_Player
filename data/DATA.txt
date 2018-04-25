@@ -1,0 +1,1328 @@
+index:0 num:0 time: from:0 to:0
+  
+index:1 num:2 time:00:00:45,264 --> 00:00:46,798 from:45264 to:46798
+sub: Hope this doesn't embarrass you Jen, 
+  
+index:2 num:3 time:00:00:46,813 --> 00:00:48,871 from:46813 to:48871
+sub: but I found the best thing to do 
+sub: with the new employee 
+  
+index:3 num:4 time:00:00:48,936 --> 00:00:51,992 from:48936 to:51992
+sub: is to size them up 
+sub: with a long hard stare. 
+  
+index:4 num:5 time:00:01:09,697 --> 00:01:11,058 from:69697 to:71058
+sub: - So! 
+sub: - So. 
+  
+index:5 num:6 time:00:01:11,129 --> 00:01:12,382 from:71129 to:72382
+sub: - First day! 
+sub: - Yes! 
+  
+index:6 num:7 time:00:01:12,406 --> 00:01:13,837 from:72406 to:73837
+sub: - Scary...? 
+sub: - Yes... 
+  
+index:7 num:8 time:00:01:13,849 --> 00:01:16,144 from:73849 to:76144
+sub: - Don't be scared! 
+sub: - Oh I'm not really scared. 
+  
+index:8 num:9 time:00:01:16,181 --> 00:01:16,735 from:76181 to:76735
+sub: You should be! 
+  
+index:9 num:10 time:00:01:16,795 --> 00:01:18,854 from:76795 to:78854
+sub: - Well I'm a little bit scared. 
+sub: - What? Don't be! 
+  
+index:10 num:11 time:00:01:18,872 --> 00:01:19,943 from:78872 to:79943
+sub: Make up your mind! 
+  
+index:11 num:12 time:00:01:20,918 --> 00:01:21,893 from:80918 to:81893
+sub: So here you are! 
+  
+index:12 num:13 time:00:01:22,897 --> 00:01:23,363 from:82897 to:83363
+sub: Yes. 
+  
+index:13 num:14 time:00:01:23,401 --> 00:01:25,281 from:83401 to:85281
+sub: I'm... really looking forward to... 
+  
+index:14 num:15 time:00:01:25,353 --> 00:01:27,852 from:85353 to:87852
+sub: - getting to grips with the... 
+sub: - I'm gonna put you in I.T. 
+  
+index:15 num:16 time:00:01:28,030 --> 00:01:31,223 from:88030 to:91223
+sub: Because you said on your CV you had 
+sub: a lot of experience with computers. 
+  
+index:16 num:17 time:00:01:33,284 --> 00:01:35,579 from:93284 to:95579
+sub: I did say that on my CV yes. 
+  
+index:17 num:18 time:00:01:35,745 --> 00:01:38,703 from:95745 to:98703
+sub: I have lots of experience 
+sub: with the whole... 
+  
+index:18 num:19 time:00:01:38,814 --> 00:01:42,413 from:98814 to:102413
+sub: computer... thing you know, e-mails... 
+  
+index:19 num:20 time:00:01:42,551 --> 00:01:47,424 from:102551 to:107424
+sub: sending e-mails, receiving e-mails, 
+sub: deleting e-mails... 
+  
+index:20 num:21 time:00:01:47,701 --> 00:01:50,863 from:107701 to:110863
+sub: - ... I could go on. 
+sub: - Do! 
+  
+index:21 num:22 time:00:01:51,972 --> 00:01:56,154 from:111972 to:116154
+sub: The Web... Using mouse... 
+sub: mices... using mice. 
+  
+index:22 num:23 time:00:01:57,295 --> 00:01:59,835 from:117295 to:119835
+sub: Clicking... double clicking... 
+  
+index:23 num:24 time:00:01:59,914 --> 00:02:03,222 from:119914 to:123222
+sub: the computer screen of course, 
+sub: the keyboard... 
+  
+index:24 num:25 time:00:02:03,416 --> 00:02:05,541 from:123416 to:125541
+sub: the...bit that goes on the floor 
+sub: down there... 
+  
+index:25 num:26 time:00:02:05,576 --> 00:02:07,062 from:125576 to:127062
+sub: - The hard drive? 
+sub: - Correct. 
+  
+index:26 num:27 time:00:02:07,961 --> 00:02:09,768 from:127961 to:129768
+sub: Well, you certainly seem 
+sub: to know your stuff. 
+  
+index:27 num:28 time:00:02:10,086 --> 00:02:12,613 from:130086 to:132613
+sub: That settles. 
+sub: Got a good feeling about you Jen! 
+  
+index:28 num:29 time:00:02:12,657 --> 00:02:14,329 from:132657 to:134329
+sub: And they need a new manager. 
+  
+index:29 num:30 time:00:02:14,356 --> 00:02:15,354 from:134356 to:135354
+sub: Oh fantastic! 
+  
+index:30 num:31 time:00:02:15,390 --> 00:02:17,645 from:135390 to:137645
+sub: So... the people I'll be working with, 
+sub: what're they like? 
+  
+index:31 num:32 time:00:02:17,668 --> 00:02:19,253 from:137668 to:139253
+sub: Standard nerds! 
+  
+index:32 num:33 time:00:03:07,630 --> 00:03:08,525 from:187630 to:188525
+sub: Hello I.T.? 
+  
+index:33 num:34 time:00:03:09,392 --> 00:03:11,135 from:189392 to:191135
+sub: Have you tried turning it off 
+sub: and on again? 
+  
+index:34 num:35 time:00:03:14,024 --> 00:03:17,127 from:194024 to:197127
+sub: OK, well, the button on the side, 
+sub: is it glowing? 
+  
+index:35 num:36 time:00:03:19,171 --> 00:03:20,779 from:199171 to:200779
+sub: Yeah, you need to turn it on! 
+  
+index:36 num:37 time:00:03:22,865 --> 00:03:24,939 from:202865 to:204939
+sub: The button, turns it on?! 
+  
+index:37 num:38 time:00:03:27,767 --> 00:03:30,198 from:207767 to:210198
+sub: Yeah... You... Yeah... 
+  
+index:38 num:39 time:00:03:30,333 --> 00:03:33,308 from:210333 to:213308
+sub: You do know how a button works, 
+sub: don't you? 
+  
+index:39 num:40 time:00:03:33,330 --> 00:03:35,005 from:213330 to:215005
+sub: No, not on clothes! 
+  
+index:40 num:41 time:00:03:35,066 --> 00:03:36,158 from:215066 to:216158
+sub: Hello, I.T.? 
+  
+index:41 num:42 time:00:03:37,250 --> 00:03:38,176 from:217250 to:218176
+sub: Yeah? 
+  
+index:42 num:43 time:00:03:39,586 --> 00:03:42,512 from:219586 to:222512
+sub: Have you tried forcing 
+sub: an unexpected reboot? 
+  
+index:43 num:44 time:00:03:42,529 --> 00:03:45,156 from:222529 to:225156
+sub: No, no! There you go! No there you go, 
+sub: I just heard it come on. 
+  
+index:44 num:45 time:00:03:46,140 --> 00:03:48,080 from:226140 to:228080
+sub: No no, that's the music you hear 
+sub: when it comes on. 
+  
+index:45 num:46 time:00:03:48,219 --> 00:03:49,757 from:228219 to:229757
+sub: No, that's the music you hear when... 
+  
+index:46 num:47 time:00:03:50,232 --> 00:03:52,181 from:230232 to:232181
+sub: I'm sorry, are you from the past?! 
+  
+index:47 num:48 time:00:03:52,995 --> 00:03:56,416 from:232995 to:236416
+sub: See the driver hooks a function 
+sub: by patching the system call table. 
+  
+index:48 num:49 time:00:03:56,451 --> 00:03:57,758 from:236451 to:237758
+sub: So it's not safe to unload it, 
+  
+index:49 num:50 time:00:03:57,768 --> 00:04:00,403 from:237768 to:240403
+sub: unless another thread's about 
+sub: to jump in there and do its stuff. 
+  
+index:50 num:51 time:00:04:00,470 --> 00:04:03,557 from:240470 to:243557
+sub: ... and you don't want to end up 
+sub: in middle of invalid memory. 
+  
+index:51 num:52 time:00:04:06,238 --> 00:04:06,831 from:246238 to:246831
+sub: Hello? 
+  
+index:52 num:53 time:00:04:07,935 --> 00:04:11,439 from:247935 to:251439
+sub: Oh really? Really, why don't you come 
+sub: down here and make me then? 
+  
+index:53 num:54 time:00:04:11,563 --> 00:04:14,355 from:251563 to:254355
+sub: What? Oh you think I'm afraid of you? 
+sub: I'm not afraid of you! 
+  
+index:54 num:55 time:00:04:14,378 --> 00:04:17,009 from:254378 to:257009
+sub: You can come down here any time 
+sub: and I'll be waiting for ya! 
+  
+index:55 num:56 time:00:04:18,335 --> 00:04:19,574 from:258335 to:259574
+sub: That told her! 
+  
+index:56 num:57 time:00:04:21,513 --> 00:04:24,769 from:261513 to:264769
+sub: Oh God, it's about time you got back, 
+sub: it's been all go. 
+  
+index:57 num:58 time:00:04:24,814 --> 00:04:25,672 from:264814 to:265672
+sub: You had a job? 
+  
+index:58 num:59 time:00:04:26,157 --> 00:04:27,431 from:266157 to:267431
+sub: Girl on fifth... 
+  
+index:59 num:60 time:00:04:27,493 --> 00:04:29,484 from:267493 to:269484
+sub: Did you and her... hit it off? 
+  
+index:60 num:61 time:00:04:30,348 --> 00:04:32,118 from:270348 to:272118
+sub: Define "hit it off"? 
+  
+index:61 num:62 time:00:04:33,073 --> 00:04:36,128 from:273073 to:276128
+sub: Did she continue talking to you 
+sub: once you'd fixed her computer? 
+  
+index:62 num:63 time:00:04:37,647 --> 00:04:38,337 from:277647 to:278337
+sub: No... 
+  
+index:63 num:64 time:00:04:39,239 --> 00:04:42,972 from:279239 to:282972
+sub: And while I was working on it, 
+sub: she rested a cup on my back. 
+  
+index:64 num:65 time:00:04:43,041 --> 00:04:44,734 from:283041 to:284734
+sub: - No?! 
+sub: - Yep! 
+  
+index:65 num:66 time:00:04:45,868 --> 00:04:47,072 from:285868 to:287072
+sub: Unbelievable! 
+  
+index:66 num:67 time:00:04:47,085 --> 00:04:50,105 from:287085 to:290105
+sub: Yeah, I mean they've not respect for us 
+sub: up there, no respect whatsoever! 
+  
+index:67 num:68 time:00:04:50,117 --> 00:04:51,884 from:290117 to:291884
+sub: We're all just drudgens to them. 
+  
+index:68 num:69 time:00:04:51,934 --> 00:04:52,668 from:291934 to:292668
+sub: Yes! 
+  
+index:69 num:70 time:00:04:52,803 --> 00:04:54,694 from:292803 to:294694
+sub: If there were such a thing as a drudgen, 
+  
+index:70 num:71 time:00:04:54,763 --> 00:04:56,233 from:294763 to:296233
+sub: that is what we'd be to them. 
+  
+index:71 num:72 time:00:04:56,259 --> 00:04:57,367 from:296259 to:297367
+sub: It's like they're pally-wally 
+  
+index:72 num:73 time:00:04:57,368 --> 00:04:59,009 from:297368 to:299009
+sub: when there's a problem 
+sub: with their printer 
+  
+index:73 num:74 time:00:04:59,027 --> 00:05:00,306 from:299027 to:300306
+sub: but once it's fixed... 
+  
+index:74 num:75 time:00:05:00,340 --> 00:05:03,007 from:300340 to:303007
+sub: They toss us away like yesterday's jam! 
+  
+index:75 num:76 time:00:05:03,008 --> 00:05:03,417 from:303008 to:303417
+sub: Yes! 
+  
+index:76 num:77 time:00:05:03,486 --> 00:05:07,322 from:303486 to:307322
+sub: Yesterday's jam! 
+sub: That is what we are to them! 
+  
+index:77 num:78 time:00:05:07,719 --> 00:05:11,055 from:307719 to:311055
+sub: Actually you know what? 
+sub: That doesn't really work as a thing... 
+  
+index:78 num:79 time:00:05:11,189 --> 00:05:13,454 from:311189 to:313454
+sub: because you know, jam lasts for ages... 
+  
+index:79 num:80 time:00:05:15,362 --> 00:05:16,980 from:315362 to:316980
+sub: Hello, I.T. ? 
+  
+index:80 num:81 time:00:05:17,077 --> 00:05:19,107 from:317077 to:319107
+sub: Have you tried turning it off 
+sub: and on again? 
+  
+index:81 num:82 time:00:05:21,537 --> 00:05:26,546 from:321537 to:326546
+sub: Unisex toilets? You have unisex toilets, 
+sub: like Ally McBeal? 
+  
+index:82 num:83 time:00:05:31,360 --> 00:05:33,496 from:331360 to:333496
+sub: That's the sort of place this is, Jen. 
+  
+index:83 num:84 time:00:05:33,526 --> 00:05:37,854 from:333526 to:337854
+sub: A lot of sexy people not doing 
+sub: much work... and having affairs. 
+  
+index:84 num:85 time:00:05:39,872 --> 00:05:43,494 from:339872 to:343494
+sub: Oh my God! Look at that view! 
+  
+index:85 num:86 time:00:05:46,447 --> 00:05:48,725 from:346447 to:348725
+sub: I feel like I'm on top of the world. 
+  
+index:86 num:87 time:00:05:49,071 --> 00:05:51,503 from:349071 to:351503
+sub: Well  Jen, this is where I leave you. 
+  
+index:87 num:88 time:00:05:51,541 --> 00:05:53,081 from:351541 to:353081
+sub: <i>Floor 34.</i> 
+  
+index:88 num:89 time:00:05:53,859 --> 00:05:57,244 from:353859 to:357244
+sub: Great sir, thank you. 
+sub: OK. Where am I going? 
+  
+index:89 num:90 time:00:05:57,263 --> 00:06:00,097 from:357263 to:360097
+sub: All... the way down to the basement. 
+  
+index:90 num:91 time:00:06:00,136 --> 00:06:01,911 from:360136 to:361911
+sub: Good luck! 
+  
+index:91 num:92 time:00:06:11,975 --> 00:06:13,669 from:371975 to:373669
+sub: <i>Get out of the lift...</i> 
+  
+index:92 num:93 time:00:06:39,488 --> 00:06:42,465 from:399488 to:402465
+sub: - Oh. Won't be a tick! 
+sub: - Oh my God! 
+  
+index:93 num:94 time:00:06:42,581 --> 00:06:46,128 from:402581 to:406128
+sub: Oh my God! Oh God! OK. 
+  
+index:94 num:95 time:00:06:55,488 --> 00:06:56,765 from:415488 to:416765
+sub: Hello? 
+  
+index:95 num:96 time:00:06:58,652 --> 00:07:00,229 from:418652 to:420229
+sub: Hello? 
+  
+index:96 num:97 time:00:07:40,323 --> 00:07:45,617 from:460323 to:465617
+sub: Yes I believe it was Tolstoy who said... 
+sub: Oh, it seems we have a visitor. 
+  
+index:97 num:98 time:00:07:46,687 --> 00:07:49,184 from:466687 to:469184
+sub: I'm sorry, myself and Morris 
+sub: were just engaged 
+  
+index:98 num:99 time:00:07:49,196 --> 00:07:51,766 from:469196 to:471766
+sub: in quite a serious discussion 
+sub: about books and such. 
+  
+index:99 num:100 time:00:07:51,816 --> 00:07:53,646 from:471816 to:473646
+sub: We didn't hear you come in. 
+  
+index:100 num:101 time:00:07:54,249 --> 00:07:56,807 from:474249 to:476807
+sub: Wait a second, you said it was 
+sub: Tolstoy, he said what? 
+  
+index:101 num:102 time:00:07:56,861 --> 00:07:58,666 from:476861 to:478666
+sub: Oh never mind that now, Morris! 
+  
+index:102 num:103 time:00:07:58,757 --> 00:08:00,446 from:478757 to:480446
+sub: When have you read Tolstoy? 
+  
+index:103 num:104 time:00:08:00,745 --> 00:08:01,907 from:480745 to:481907
+sub: Shut up, Morris! 
+  
+index:104 num:105 time:00:08:02,719 --> 00:08:04,636 from:482719 to:484636
+sub: Why are you speaking that weird voice? 
+  
+index:105 num:106 time:00:08:04,651 --> 00:08:07,410 from:484651 to:487410
+sub: When did... I don't remember 
+sub: this conversation at all! 
+  
+index:106 num:107 time:00:08:09,092 --> 00:08:11,644 from:489092 to:491644
+sub: Don't... don't let me disturb you, 
+sub: I just wanted to come down.... 
+  
+index:107 num:108 time:00:08:12,198 --> 00:08:14,228 from:492198 to:494228
+sub: Don't be silly you never dist... 
+  
+index:108 num:109 time:00:08:20,138 --> 00:08:23,051 from:500138 to:503051
+sub: Many people come down here to visit! 
+  
+index:109 num:110 time:00:08:23,166 --> 00:08:26,944 from:503166 to:506944
+sub: What are you talking about? 
+sub: Who comes down? What people? 
+  
+index:110 num:111 time:00:08:29,229 --> 00:08:32,653 from:509229 to:512653
+sub: Why are you giving me 
+sub: the secret signal to shut up?! 
+  
+index:111 num:112 time:00:08:33,800 --> 00:08:38,168 from:513800 to:518168
+sub: So... What can we do you for? 
+  
+index:112 num:113 time:00:08:38,318 --> 00:08:42,319 from:518318 to:522319
+sub: I'm the new head of this department. 
+  
+index:113 num:114 time:00:08:42,752 --> 00:08:45,095 from:522752 to:525095
+sub: Is this my office? 
+  
+index:114 num:115 time:00:08:45,635 --> 00:08:49,240 from:525635 to:529240
+sub: Why? What did she... Did she just say... 
+  
+index:115 num:116 time:00:08:49,384 --> 00:08:52,448 from:529384 to:532448
+sub: - I am the head of this department! 
+sub: - I thought I was. 
+  
+index:116 num:117 time:00:08:52,555 --> 00:08:56,472 from:532555 to:536472
+sub: It's  one of us! Certainly not her! 
+sub: I'm gonna sort this out... 
+  
+index:117 num:118 time:00:08:56,520 --> 00:08:59,024 from:536520 to:539024
+sub: Roy! You've got a head wound there... 
+sub: Head wound! 
+  
+index:118 num:119 time:00:09:00,820 --> 00:09:01,623 from:540820 to:541623
+sub: Hi! 
+  
+index:119 num:120 time:00:09:01,689 --> 00:09:03,635 from:541689 to:543635
+sub: I don't wanna be rude or anything 
+  
+index:120 num:121 time:00:09:03,666 --> 00:09:07,065 from:543666 to:547065
+sub: but I wasn't informed of any changes 
+sub: to this department. 
+  
+index:121 num:122 time:00:09:07,138 --> 00:09:09,205 from:547138 to:549205
+sub: Oh, did they not tell you about me? 
+  
+index:122 num:123 time:00:09:09,234 --> 00:09:09,838 from:549234 to:549838
+sub: N o! 
+  
+index:123 num:124 time:00:09:09,904 --> 00:09:13,395 from:549904 to:553395
+sub: And we are perfectly fine down here, 
+sub: thank you very much, 
+  
+index:124 num:125 time:00:09:13,431 --> 00:09:15,817 from:553431 to:555817
+sub: we're more than capable 
+sub: of taking care of ourselves. 
+  
+index:125 num:126 time:00:09:15,829 --> 00:09:16,844 from:555829 to:556844
+sub: Sure... sure... 
+  
+index:126 num:127 time:00:09:16,960 --> 00:09:18,453 from:556960 to:558453
+sub: You know you're covered in blood? 
+  
+index:127 num:128 time:00:09:20,003 --> 00:09:20,933 from:560003 to:560933
+sub: Moss! 
+  
+index:128 num:129 time:00:09:21,745 --> 00:09:23,000 from:561745 to:563000
+sub: Amazon thingy. 
+  
+index:129 num:130 time:00:09:23,089 --> 00:09:24,462 from:563089 to:564462
+sub: Ah! Wicked! 
+  
+index:130 num:131 time:00:09:24,521 --> 00:09:27,094 from:564521 to:567094
+sub: I know what this is. 
+sub: It's the new Harry Potter. 
+  
+index:131 num:132 time:00:09:27,165 --> 00:09:30,059 from:567165 to:570059
+sub: I got the child edition 
+sub: and the adult edition 
+  
+index:132 num:133 time:00:09:30,094 --> 00:09:33,184 from:570094 to:573184
+sub: just to check that there are 
+sub: no differences in the text. 
+  
+index:133 num:134 time:00:09:35,941 --> 00:09:38,377 from:575941 to:578377
+sub: Sorry but I'm not gonna be able 
+sub: to deal with that woman! 
+  
+index:134 num:135 time:00:09:39,542 --> 00:09:42,488 from:579542 to:582488
+sub: Is nobody else going to get the phone? 
+sub: I suppose I'll get it! 
+  
+index:135 num:136 time:00:09:42,512 --> 00:09:45,216 from:582512 to:585216
+sub: No, that is not a phone. 
+sub: I'm gonna have a little lie down. 
+  
+index:136 num:137 time:00:09:50,805 --> 00:09:51,572 from:590805 to:591572
+sub: Come in! 
+  
+index:137 num:138 time:00:09:52,612 --> 00:09:55,315 from:592612 to:595315
+sub: Yeah, Denholm. Yeah, yeah. 
+  
+index:138 num:139 time:00:09:55,924 --> 00:09:59,132 from:595924 to:599132
+sub: No no no... No they've been fine so far. 
+  
+index:139 num:140 time:00:09:59,312 --> 00:10:02,088 from:599312 to:602088
+sub: Yeah. I think we're gonna get on great. 
+  
+index:140 num:141 time:00:10:02,881 --> 00:10:03,998 from:602881 to:603998
+sub: Yeah, I know. 
+  
+index:141 num:142 time:00:10:04,106 --> 00:10:07,134 from:604106 to:607134
+sub: All right then, now you take care. 
+sub: All right, yeah I will, yeah. 
+  
+index:142 num:143 time:00:10:08,970 --> 00:10:09,641 from:608970 to:609641
+sub: Ok! 
+  
+index:143 num:144 time:00:10:09,702 --> 00:10:11,953 from:609702 to:611953
+sub: Ok, take care, take care! 
+  
+index:144 num:145 time:00:10:12,068 --> 00:10:13,623 from:612068 to:613623
+sub: Ok bye! Bye! 
+  
+index:145 num:146 time:00:10:14,957 --> 00:10:16,683 from:614957 to:616683
+sub: Oh, so, hello! 
+  
+index:146 num:147 time:00:10:16,827 --> 00:10:20,149 from:616827 to:620149
+sub: What can I do you fo... 
+sub: What can I do for you? 
+  
+index:147 num:148 time:00:10:20,288 --> 00:10:22,871 from:620288 to:622871
+sub: Hello. I was just wondering... 
+  
+index:148 num:149 time:00:10:22,941 --> 00:10:25,640 from:622941 to:625640
+sub: Do you want me to connect up your phone? 
+  
+index:149 num:150 time:00:10:33,627 --> 00:10:36,188 from:633627 to:636188
+sub: No no no... No. 
+  
+index:150 num:151 time:00:10:36,303 --> 00:10:40,086 from:636303 to:640086
+sub: It's working. 
+sub: I was just talking to Denholm. 
+  
+index:151 num:152 time:00:10:40,143 --> 00:10:41,548 from:640143 to:641548
+sub: But how?! 
+  
+index:152 num:153 time:00:10:41,596 --> 00:10:45,756 from:641596 to:645756
+sub: Oh do you mind... Do you mind 
+sub: closing the door for me? 
+  
+index:153 num:154 time:00:10:45,963 --> 00:10:48,109 from:645963 to:648109
+sub: - Oh yeah, sure. 
+sub: - Yeah, Ok. 
+  
+index:154 num:155 time:00:10:49,629 --> 00:10:50,988 from:649629 to:650988
+sub: Yeah. From the other side... 
+  
+index:155 num:156 time:00:10:52,881 --> 00:10:53,839 from:652881 to:653839
+sub: Of course. 
+  
+index:156 num:157 time:00:10:57,326 --> 00:10:59,072 from:657326 to:659072
+sub: - Like this? 
+sub: - That's it! 
+  
+index:157 num:158 time:00:11:00,143 --> 00:11:01,842 from:660143 to:661842
+sub: - With me on the... 
+sub: - Thanks! 
+  
+index:158 num:159 time:00:11:12,882 --> 00:11:14,513 from:672882 to:674513
+sub: Are you all right? 
+  
+index:159 num:160 time:00:11:14,638 --> 00:11:16,962 from:674638 to:676962
+sub: Oh yes, Moss, I'm fine! 
+  
+index:160 num:161 time:00:11:16,979 --> 00:11:19,788 from:676979 to:679788
+sub: The nurse said I didn't do myself 
+sub: any serious damage. 
+  
+index:161 num:162 time:00:11:19,833 --> 00:11:21,027 from:679833 to:681027
+sub: I'm standing over here! 
+  
+index:162 num:163 time:00:11:21,040 --> 00:11:23,564 from:681040 to:683564
+sub: I know, I know, I'm joking, I'm fine! 
+  
+index:163 num:164 time:00:11:23,633 --> 00:11:24,791 from:683633 to:684791
+sub: What we gonna do about her? 
+  
+index:164 num:165 time:00:11:24,947 --> 00:11:28,679 from:684947 to:688679
+sub: Well, I just went in, and she was having 
+sub: a pretend conversation. 
+  
+index:165 num:166 time:00:11:28,818 --> 00:11:30,235 from:688818 to:690235
+sub: - Really? 
+sub: - Yes. 
+  
+index:166 num:167 time:00:11:30,260 --> 00:11:33,812 from:690260 to:693812
+sub: She's a little bit weird... 
+sub: to say the least. 
+  
+index:167 num:168 time:00:11:35,152 --> 00:11:35,992 from:695152 to:695992
+sub: What's that? 
+  
+index:168 num:169 time:00:11:36,078 --> 00:11:38,370 from:696078 to:698370
+sub: Oh just water. 
+sub: Sometimes, I get a hot ear, 
+  
+index:169 num:170 time:00:11:38,414 --> 00:11:39,839 from:698414 to:699839
+sub: and this helps cool it down. 
+  
+index:170 num:171 time:00:11:40,723 --> 00:11:42,953 from:700723 to:702953
+sub: She is quite the oddbod... 
+  
+index:171 num:172 time:00:11:43,448 --> 00:11:45,867 from:703448 to:705867
+sub: Did you notice how 
+sub: she didn't even get excited 
+  
+index:172 num:173 time:00:11:45,868 --> 00:11:47,720 from:705868 to:707720
+sub: when she saw this original ZX-IT 1? 
+  
+index:173 num:174 time:00:11:47,817 --> 00:11:49,669 from:707817 to:709669
+sub: Yeah, that was weird. 
+  
+index:174 num:175 time:00:11:49,712 --> 00:11:52,072 from:709712 to:712072
+sub: It's almost as if she doesn't know 
+sub: anything about computers. 
+  
+index:175 num:176 time:00:11:52,128 --> 00:11:52,917 from:712128 to:712917
+sub: What?! 
+  
+index:176 num:177 time:00:11:54,723 --> 00:11:55,515 from:714723 to:715515
+sub: Look what you did! 
+  
+index:177 num:178 time:00:11:55,598 --> 00:11:58,038 from:715598 to:718038
+sub: Oh don't worry that's why 
+sub: I always make 2 cups of tea. 
+  
+index:178 num:179 time:00:11:59,310 --> 00:12:00,720 from:719310 to:720720
+sub: Anyway, what were we talking about? 
+  
+index:179 num:180 time:00:12:00,730 --> 00:12:02,691 from:720730 to:722691
+sub: Oh, her not knowing anything 
+sub: about computers. 
+  
+index:180 num:181 time:00:12:02,744 --> 00:12:03,434 from:722744 to:723434
+sub: What?! 
+  
+index:181 num:182 time:00:12:08,284 --> 00:12:10,726 from:728284 to:730726
+sub: "Dear sir, stroke, madam." 
+  
+index:182 num:183 time:00:12:10,779 --> 00:12:12,858 from:730779 to:732858
+sub: "Fire!" Exclamation mark. 
+  
+index:183 num:184 time:00:12:12,956 --> 00:12:15,789 from:732956 to:735789
+sub: "Fire!" Exclamation mark. 
+  
+index:184 num:185 time:00:12:15,822 --> 00:12:18,229 from:735822 to:738229
+sub: "Help me!" Exclamation mark. 
+  
+index:185 num:186 time:00:12:18,273 --> 00:12:20,584 from:738273 to:740584
+sub: "123, Carendon Road." 
+  
+index:186 num:187 time:00:12:20,651 --> 00:12:23,139 from:740651 to:743139
+sub: "Looking forward to hearing from you!" 
+  
+index:187 num:188 time:00:12:23,217 --> 00:12:25,531 from:743217 to:745531
+sub: "All the best, Morris Moss." 
+  
+index:188 num:189 time:00:12:25,548 --> 00:12:27,655 from:745548 to:747655
+sub: <i>The IT Crowd continues next!</i> 
+  
+index:189 num:190 time:00:12:32,704 --> 00:12:34,596 from:752704 to:754596
+sub: <i>I definitely want to get rid of her.</i> 
+  
+index:190 num:191 time:00:12:34,711 --> 00:12:36,026 from:754711 to:756026
+sub: I agree yeah. 
+  
+index:191 num:192 time:00:12:36,110 --> 00:12:38,242 from:756110 to:758242
+sub: Ok, so, here's the plan: 
+  
+index:192 num:193 time:00:12:38,477 --> 00:12:42,458 from:758477 to:762458
+sub: A plan? Let me put on 
+sub: my slightly larger glasses. 
+  
+index:193 num:194 time:00:12:47,389 --> 00:12:48,901 from:767389 to:768901
+sub: Ok, hit me! 
+  
+index:194 num:195 time:00:12:49,549 --> 00:12:51,255 from:769549 to:771255
+sub: - Ok. We go in... 
+sub: - When? 
+  
+index:195 num:196 time:00:12:52,697 --> 00:12:54,079 from:772697 to:774079
+sub: You know, like in a minute. 
+  
+index:196 num:197 time:00:12:54,204 --> 00:12:56,402 from:774204 to:776402
+sub: Will that be enough time for me 
+sub: to get to know the plan? 
+  
+index:197 num:198 time:00:12:57,620 --> 00:13:00,039 from:777620 to:780039
+sub: Yeah, you know what? 
+sub: I shouldn't have used the word "plan"! 
+  
+index:198 num:199 time:00:13:00,067 --> 00:13:02,223 from:780067 to:782223
+sub: I... I've clearly gotten you 
+sub: over-excited! 
+  
+index:199 num:200 time:00:13:02,265 --> 00:13:04,131 from:782265 to:784131
+sub: Would "steamed" be a better word? 
+  
+index:200 num:201 time:00:13:04,173 --> 00:13:07,189 from:784173 to:787189
+sub: Although that's just as exciting, 
+sub: I might even use these. 
+  
+index:201 num:202 time:00:13:11,976 --> 00:13:14,173 from:791976 to:794173
+sub: All I was gonna say was... 
+  
+index:202 num:203 time:00:13:14,242 --> 00:13:17,697 from:794242 to:797697
+sub: We go in, I make up a load of bullocks 
+sub: about computers 
+  
+index:203 num:204 time:00:13:17,704 --> 00:13:19,184 from:797704 to:799184
+sub: and we'll see if she picks up on it. 
+  
+index:204 num:205 time:00:13:22,463 --> 00:13:25,046 from:802463 to:805046
+sub: Yes. I can see why 
+sub: you didn't want to use the word "plan". 
+  
+index:205 num:206 time:00:13:26,419 --> 00:13:27,368 from:806419 to:807368
+sub: Let me do the talk. 
+  
+index:206 num:207 time:00:13:27,396 --> 00:13:28,040 from:807396 to:808040
+sub: All right. 
+  
+index:207 num:208 time:00:13:29,923 --> 00:13:30,999 from:809923 to:810999
+sub: Ouh, Moss, Moss Moss! 
+  
+index:208 num:209 time:00:13:31,572 --> 00:13:33,736 from:811572 to:813736
+sub: Ok, we need to get this right, you know? 
+  
+index:209 num:210 time:00:13:33,834 --> 00:13:35,991 from:813834 to:815991
+sub: We... we need to stay calm. 
+  
+index:210 num:211 time:00:13:36,113 --> 00:13:38,535 from:816113 to:818535
+sub: We do not wanna go in there half-cocked. 
+  
+index:211 num:212 time:00:13:51,029 --> 00:13:52,157 from:831029 to:832157
+sub: Hang on, guys. 
+  
+index:212 num:213 time:00:13:53,705 --> 00:13:55,022 from:833705 to:835022
+sub: How can I help? 
+  
+index:213 num:214 time:00:13:55,087 --> 00:13:57,863 from:835087 to:837863
+sub: Well, we were just wondering 
+sub: now that you're "The Boss", 
+  
+index:214 num:215 time:00:13:57,985 --> 00:14:00,147 from:837985 to:840147
+sub: would you like us to access 
+sub: the data supplier 
+  
+index:215 num:216 time:00:14:00,173 --> 00:14:01,538 from:840173 to:841538
+sub: and connect you up to the matrix? 
+  
+index:216 num:217 time:00:14:04,580 --> 00:14:07,068 from:844580 to:847068
+sub: You just made all that up? 
+  
+index:217 num:218 time:00:14:08,135 --> 00:14:10,588 from:848135 to:850588
+sub: You don't know anything 
+sub: about computers, admit it! 
+  
+index:218 num:219 time:00:14:10,599 --> 00:14:14,649 from:850599 to:854649
+sub: Will you stop trying to undermine me! 
+sub: Now get in there, 
+  
+index:219 num:220 time:00:14:14,697 --> 00:14:17,460 from:854697 to:857460
+sub: and do some work, to do with computers! 
+  
+index:220 num:221 time:00:14:17,902 --> 00:14:20,626 from:857902 to:860626
+sub: I'll be in there in a minute 
+sub: and check up on you! 
+  
+index:221 num:222 time:00:14:21,029 --> 00:14:22,951 from:861029 to:862951
+sub: Ok, lady! 
+  
+index:222 num:223 time:00:14:23,006 --> 00:14:26,352 from:863006 to:866352
+sub: You've won this round, but we can wait! 
+  
+index:223 num:224 time:00:14:26,656 --> 00:14:28,596 from:866656 to:868596
+sub: You will slip up one day, 
+  
+index:224 num:225 time:00:14:28,665 --> 00:14:31,119 from:868665 to:871119
+sub: and believe you me, 
+sub: we will be there when you do! 
+  
+index:225 num:226 time:00:14:31,158 --> 00:14:33,160 from:871158 to:873160
+sub: There will be some piece of evidence 
+sub: that will prove 
+  
+index:226 num:227 time:00:14:33,163 --> 00:14:34,307 from:873163 to:874307
+sub: without  any shadow of a doubt 
+  
+index:227 num:228 time:00:14:34,308 --> 00:14:36,160 from:874308 to:876160
+sub: that you don't know 
+sub: anything about computers. 
+  
+index:228 num:229 time:00:14:36,195 --> 00:14:37,334 from:876195 to:877334
+sub: What are you doing? 
+  
+index:229 num:230 time:00:14:38,034 --> 00:14:40,221 from:878034 to:880221
+sub: Plugging in your computer. 
+  
+index:230 num:231 time:00:14:41,770 --> 00:14:43,680 from:881770 to:883680
+sub: It might be something you say... 
+  
+index:231 num:232 time:00:14:43,763 --> 00:14:45,299 from:883763 to:885299
+sub: or something you do! 
+  
+index:232 num:233 time:00:14:45,769 --> 00:14:49,310 from:885769 to:889310
+sub: But when we notice this, 
+sub: and believe me we will notice this, 
+  
+index:233 num:234 time:00:14:49,319 --> 00:14:51,912 from:889319 to:891912
+sub: there's gonna be a long way down 
+sub: for you, sweet chicks! 
+  
+index:234 num:235 time:00:14:56,933 --> 00:14:58,815 from:896933 to:898815
+sub: He'll realise in a second... 
+  
+index:235 num:236 time:00:15:08,045 --> 00:15:11,098 from:908045 to:911098
+sub: I cannot believe you're going 
+sub: to tell on me. 
+  
+index:236 num:237 time:00:15:11,231 --> 00:15:14,718 from:911231 to:914718
+sub: You're like a pair of horrible 
+sub: old women. 
+  
+index:237 num:238 time:00:15:15,050 --> 00:15:16,223 from:915050 to:916223
+sub: What did she say? 
+  
+index:238 num:239 time:00:15:17,172 --> 00:15:18,843 from:917172 to:918843
+sub: She said we're like horrible old women. 
+  
+index:239 num:240 time:00:15:18,932 --> 00:15:20,127 from:918932 to:920127
+sub: She didn't! 
+  
+index:240 num:241 time:00:15:20,835 --> 00:15:22,009 from:920835 to:922009
+sub: Hey guys! 
+  
+index:241 num:242 time:00:15:22,247 --> 00:15:23,485 from:922247 to:923485
+sub: Ok, got something to tell me? 
+  
+index:242 num:243 time:00:15:23,487 --> 00:15:25,181 from:923487 to:925181
+sub: Yes, well, it's like this: 
+  
+index:243 num:244 time:00:15:25,269 --> 00:15:27,649 from:925269 to:927649
+sub: Look at you! My I.T. Team. 
+  
+index:244 num:245 time:00:15:27,926 --> 00:15:30,028 from:927926 to:930028
+sub: - Yeah. 
+sub: - Team players each and every one of you. 
+  
+index:245 num:246 time:00:15:30,036 --> 00:15:31,038 from:930036 to:931038
+sub: Yeah, what she... 
+  
+index:246 num:247 time:00:15:31,051 --> 00:15:33,570 from:931051 to:933570
+sub: There's no room for people 
+sub: who can't act in a team on my team! 
+  
+index:247 num:248 time:00:15:33,930 --> 00:15:35,112 from:933930 to:935112
+sub: Excuse me. 
+  
+index:248 num:249 time:00:15:35,281 --> 00:15:36,464 from:935281 to:936464
+sub: Hello? 
+  
+index:249 num:250 time:00:15:36,717 --> 00:15:37,772 from:936717 to:937772
+sub: What?! 
+  
+index:250 num:251 time:00:15:38,378 --> 00:15:40,517 from:938378 to:940517
+sub: Well if you can't work as a team, 
+sub: you're all fired! 
+  
+index:251 num:252 time:00:15:40,779 --> 00:15:43,281 from:940779 to:943281
+sub: That's it, you heard me, fine! 
+sub: Get your things and go! 
+  
+index:252 num:253 time:00:15:45,173 --> 00:15:46,013 from:945173 to:946013
+sub: Hello, Security? 
+  
+index:253 num:254 time:00:15:46,472 --> 00:15:48,126 from:946472 to:948126
+sub: Everyone on floor 4 is fired. 
+  
+index:254 num:255 time:00:15:48,662 --> 00:15:49,873 from:948662 to:949873
+sub: Escort them from the premises. 
+  
+index:255 num:256 time:00:15:49,994 --> 00:15:50,997 from:949994 to:950997
+sub: And do it as a team! 
+  
+index:256 num:257 time:00:15:51,118 --> 00:15:54,013 from:951118 to:954013
+sub: Remember you're a team, and if you can't 
+sub: act as a team, you're fired too! 
+  
+index:257 num:258 time:00:15:55,497 --> 00:15:56,175 from:955497 to:956175
+sub: Dawn! 
+  
+index:258 num:259 time:00:15:56,446 --> 00:15:59,005 from:956446 to:959005
+sub: Get onto recruitment. 
+sub: Tell them to look for a security team 
+  
+index:259 num:260 time:00:15:59,006 --> 00:15:59,986 from:959006 to:959986
+sub: that can work as team. 
+  
+index:260 num:261 time:00:16:00,474 --> 00:16:02,869 from:960474 to:962869
+sub: They may have to escort our 
+sub: security team from the building, 
+  
+index:261 num:262 time:00:16:02,944 --> 00:16:05,173 from:962944 to:965173
+sub: for not acting like a team! 
+  
+index:262 num:263 time:00:16:06,518 --> 00:16:10,233 from:966518 to:970233
+sub: Team! Team team team team team! 
+  
+index:263 num:264 time:00:16:10,537 --> 00:16:12,294 from:970537 to:972294
+sub: I even love saying the word "team". 
+  
+index:264 num:265 time:00:16:13,546 --> 00:16:15,489 from:973546 to:975489
+sub: You probably think that's a picture 
+sub: of my family? 
+  
+index:265 num:266 time:00:16:17,384 --> 00:16:18,430 from:977384 to:978430
+sub: It's the A-Team. 
+  
+index:266 num:267 time:00:16:19,755 --> 00:16:23,196 from:979755 to:983196
+sub: Body, Doyle, Tiger, the Jewellery Man! 
+  
+index:267 num:268 time:00:16:23,591 --> 00:16:24,753 from:983591 to:984753
+sub: All of them! 
+  
+index:268 num:269 time:00:16:26,007 --> 00:16:27,596 from:986007 to:987596
+sub: So what do you wanna tell me? 
+  
+index:269 num:270 time:00:16:27,654 --> 00:16:29,218 from:987654 to:989218
+sub: Well, it's just not working out. 
+  
+index:270 num:271 time:00:16:31,307 --> 00:16:33,065 from:991307 to:993065
+sub: - He's joking! 
+sub: - But you said... 
+  
+index:271 num:272 time:00:16:33,106 --> 00:16:34,172 from:993106 to:994172
+sub: Not working out? 
+  
+index:272 num:273 time:00:16:34,200 --> 00:16:35,902 from:994200 to:995902
+sub: Oh no! No! 
+  
+index:273 num:274 time:00:16:35,995 --> 00:16:38,334 from:995995 to:998334
+sub: We are getting on like 
+sub: a big house on fire! 
+  
+index:274 num:275 time:00:16:38,360 --> 00:16:40,188 from:998360 to:1000188
+sub: - Yeah! 
+sub: - My ear's getting hot! 
+  
+index:275 num:276 time:00:16:42,041 --> 00:16:45,008 from:1002041 to:1005008
+sub: No... You know what? 
+sub: We should leave, now, because 
+  
+index:276 num:277 time:00:16:45,163 --> 00:16:46,461 from:1005163 to:1006461
+sub: you know, you're a busy man 
+  
+index:277 num:278 time:00:16:46,473 --> 00:16:48,491 from:1006473 to:1008491
+sub: and we've taken far too much 
+sub: of your time. 
+  
+index:278 num:279 time:00:16:48,499 --> 00:16:50,308 from:1008499 to:1010308
+sub: Jen could you just get the door 
+sub: for me there? 
+  
+index:279 num:280 time:00:16:50,327 --> 00:16:51,360 from:1010327 to:1011360
+sub: Absolutely Roy! 
+  
+index:280 num:281 time:00:16:51,379 --> 00:16:53,125 from:1011379 to:1013125
+sub: So why did you come here 
+sub: in the first place? 
+  
+index:281 num:282 time:00:16:55,695 --> 00:16:59,620 from:1015695 to:1019620
+sub: We set up a voice activation system 
+sub: on your computer. 
+  
+index:282 num:283 time:00:16:59,709 --> 00:17:01,209 from:1019709 to:1021209
+sub: I  think you're gonna enjoy it. 
+  
+index:283 num:284 time:00:17:01,229 --> 00:17:03,955 from:1021229 to:1023955
+sub: It might just take a little while 
+sub: to get the pitch right on the voice 
+  
+index:284 num:285 time:00:17:03,972 --> 00:17:06,106 from:1023972 to:1026106
+sub: but nonetheless, go ahead! 
+sub: Thank you very much! 
+  
+index:285 num:286 time:00:17:06,124 --> 00:17:07,202 from:1026124 to:1027202
+sub: - Bye bye! 
+sub: - Thank you! 
+  
+index:286 num:287 time:00:17:07,525 --> 00:17:08,658 from:1027525 to:1028658
+sub: How exciting! 
+  
+index:287 num:288 time:00:17:12,335 --> 00:17:13,169 from:1032335 to:1033169
+sub: Hello... 
+  
+index:288 num:289 time:00:17:16,554 --> 00:17:17,742 from:1036554 to:1037742
+sub: Hello computer! 
+  
+index:289 num:290 time:00:17:21,655 --> 00:17:22,843 from:1041655 to:1042843
+sub: Hello! 
+  
+index:290 num:291 time:00:17:24,722 --> 00:17:27,441 from:1044722 to:1047441
+sub: Hello... Hello computer... 
+  
+index:291 num:292 time:00:17:30,071 --> 00:17:32,135 from:1050071 to:1052135
+sub: What good are you? 
+  
+index:292 num:293 time:00:17:32,143 --> 00:17:34,757 from:1052143 to:1054757
+sub: You obviously don't know anything 
+sub: about computers. 
+  
+index:293 num:294 time:00:17:34,784 --> 00:17:36,158 from:1054784 to:1056158
+sub: No but... OK. 
+  
+index:294 num:295 time:00:17:36,197 --> 00:17:37,543 from:1056197 to:1057543
+sub: But I can learn. 
+  
+index:295 num:296 time:00:17:37,650 --> 00:17:40,679 from:1057650 to:1060679
+sub: You know, I mean, for example Moss, 
+  
+index:296 num:297 time:00:17:40,725 --> 00:17:42,849 from:1060725 to:1062849
+sub: you could take me through 
+sub: what you're doing right now. 
+  
+index:297 num:298 time:00:17:42,905 --> 00:17:44,077 from:1062905 to:1064077
+sub: I'd be delighted! 
+  
+index:298 num:299 time:00:17:44,353 --> 00:17:47,249 from:1064353 to:1067249
+sub: I'm just working on a very simple piece 
+sub: of programming code. 
+  
+index:299 num:300 time:00:17:55,541 --> 00:17:56,842 from:1075541 to:1076842
+sub: I see... 
+  
+index:300 num:301 time:00:17:57,987 --> 00:18:00,789 from:1077987 to:1080789
+sub: Oh God, no, I'm lying again! 
+sub: I didn't understand any of that! 
+  
+index:301 num:302 time:00:18:00,796 --> 00:18:03,080 from:1080796 to:1083080
+sub: I don't know anything 
+sub: about computers, I mean... 
+  
+index:302 num:303 time:00:18:03,139 --> 00:18:07,188 from:1083139 to:1087188
+sub: I'm absolutely useless to you. 
+sub: I might as well pack up and go home. 
+  
+index:303 num:304 time:00:18:09,224 --> 00:18:13,049 from:1089224 to:1093049
+sub: Hi! Is... Roy around? 
+  
+index:304 num:305 time:00:18:13,553 --> 00:18:15,222 from:1093553 to:1095222
+sub: Hello there little lady! 
+  
+index:305 num:306 time:00:18:15,307 --> 00:18:18,788 from:1095307 to:1098788
+sub: Are you lost? 
+sub: How can I help you? I'm Roy. 
+  
+index:306 num:307 time:00:18:21,130 --> 00:18:22,609 from:1101130 to:1102609
+sub: You wanted me to come down?! 
+  
+index:307 num:308 time:00:18:23,718 --> 00:18:24,772 from:1103718 to:1104772
+sub: Well here I am!! 
+  
+index:308 num:309 time:00:18:24,777 --> 00:18:26,176 from:1104777 to:1106176
+sub: Not the face!! 
+  
+index:309 num:310 time:00:18:26,902 --> 00:18:28,223 from:1106902 to:1108223
+sub: Not the face!! 
+  
+index:310 num:311 time:00:18:28,361 --> 00:18:30,747 from:1108361 to:1110747
+sub: Well maybe this will teach you 
+  
+index:311 num:312 time:00:18:30,774 --> 00:18:33,308 from:1110774 to:1113308
+sub: to treat people with 
+sub: a little bit of respect! 
+  
+index:312 num:313 time:00:18:34,590 --> 00:18:37,490 from:1114590 to:1117490
+sub: Is it 'cos we spoke on the phone 
+sub: earlier? 
+  
+index:313 num:314 time:00:18:38,643 --> 00:18:41,181 from:1118643 to:1121181
+sub: Oh my God! Are those Manolo's? 
+  
+index:314 num:315 time:00:18:41,237 --> 00:18:41,843 from:1121237 to:1121843
+sub: Yes! 
+  
+index:315 num:316 time:00:18:41,932 --> 00:18:44,645 from:1121932 to:1124645
+sub: They are gorgeous! Were they expensive? 
+  
+index:316 num:317 time:00:18:44,697 --> 00:18:46,899 from:1124697 to:1126899
+sub: No, no no no! Got them in a sale. 
+  
+index:317 num:318 time:00:18:46,941 --> 00:18:48,213 from:1126941 to:1128213
+sub: Oh God! Clever you! 
+  
+index:318 num:319 time:00:18:48,220 --> 00:18:50,147 from:1128220 to:1130147
+sub: I'm never lucky enough 
+sub: to get a bargain myself. 
+  
+index:319 num:320 time:00:18:50,159 --> 00:18:51,714 from:1130159 to:1131714
+sub: Well, I should take you shopping. 
+  
+index:320 num:321 time:00:18:51,738 --> 00:18:53,678 from:1131738 to:1133678
+sub: Yeah, no that would be fantastic. 
+  
+index:321 num:322 time:00:18:53,725 --> 00:18:56,143 from:1133725 to:1136143
+sub: Oh I will give you a call. 
+sub: Nice to meet you! Take care! 
+  
+index:322 num:323 time:00:18:56,186 --> 00:18:59,735 from:1136186 to:1139735
+sub: - Nice meeting you! 
+sub: - Chairman! Wow! 
+  
+index:323 num:324 time:00:18:59,805 --> 00:19:02,270 from:1139805 to:1142270
+sub: You just diffuse that entire situation! 
+  
+index:324 num:325 time:00:19:02,341 --> 00:19:03,566 from:1142341 to:1143566
+sub: What situation? 
+  
+index:325 num:326 time:00:19:03,784 --> 00:19:07,877 from:1143784 to:1147877
+sub: Oh oh, that.. yeah! 
+sub: Oh my God, does that happen a lot? 
+  
+index:326 num:327 time:00:19:08,097 --> 00:19:11,024 from:1148097 to:1151024
+sub: They're fairly regular, 
+sub: the beatings, yes. 
+  
+index:327 num:328 time:00:19:11,117 --> 00:19:13,504 from:1151117 to:1153504
+sub: I'd say we're on a by-weekly beatings. 
+  
+index:328 num:329 time:00:19:13,578 --> 00:19:15,235 from:1153578 to:1155235
+sub: Ah it's not all that bad! 
+  
+index:329 num:330 time:00:19:15,293 --> 00:19:17,969 from:1155293 to:1157969
+sub: Ah, come on Roy! It's pretty bad... 
+  
+index:330 num:331 time:00:19:18,443 --> 00:19:21,289 from:1158443 to:1161289
+sub: Maybe I could help with this. 
+sub: You know, I mean... 
+  
+index:331 num:332 time:00:19:21,528 --> 00:19:23,627 from:1161528 to:1163627
+sub: I'm a people person and... 
+  
+index:332 num:333 time:00:19:23,739 --> 00:19:26,311 from:1163739 to:1166311
+sub: people like you need a person 
+sub: to deal with people... 
+  
+index:333 num:334 time:00:19:26,344 --> 00:19:28,996 from:1166344 to:1168996
+sub: a people person like me. Oh my God! 
+  
+index:334 num:335 time:00:19:29,154 --> 00:19:31,883 from:1169154 to:1171883
+sub: Ideas are coming! 
+sub: Things are happening here! 
+  
+index:335 num:336 time:00:19:31,920 --> 00:19:33,946 from:1171920 to:1173946
+sub: Ok, Ok, what would you say here, 
+  
+index:336 num:337 time:00:19:34,095 --> 00:19:36,269 from:1174095 to:1176269
+sub: if I told you that I had a plan 
+  
+index:337 num:338 time:00:19:36,332 --> 00:19:40,320 from:1176332 to:1180320
+sub: to raise your profile upstairs by 100%. 
+sub: What would you say? 
+  
+index:338 num:339 time:00:19:40,479 --> 00:19:42,325 from:1180479 to:1182325
+sub: I can't be done! You're crazy! 
+  
+index:339 num:340 time:00:19:42,380 --> 00:19:46,090 from:1182380 to:1186090
+sub: What would you say Roy? 
+sub: Roy's passed out! Ok! 
+  
+index:340 num:341 time:00:19:46,314 --> 00:19:49,574 from:1186314 to:1189574
+sub: I need a felt-tip pen, and some paper. 
+  
+index:341 num:342 time:00:20:12,803 --> 00:20:15,918 from:1212803 to:1215918
+sub: PARTY - I.T. DEPT 5.45 TODAY 
+  
+index:342 num:343 time:00:20:18,387 --> 00:20:24,974 from:1218387 to:1224974
+sub: No no! Oh no, really really really, 
+sub: that was a true story! 
+  
+index:343 num:344 time:00:20:25,041 --> 00:20:26,412 from:1225041 to:1226412
+sub: Unbelievable! 
+  
+index:344 num:345 time:00:20:26,605 --> 00:20:29,495 from:1226605 to:1229495
+sub: I said why we don't go out 
+sub: with the I.T. guys more often? 
+  
+index:345 num:346 time:00:20:29,548 --> 00:20:31,821 from:1229548 to:1231821
+sub: - You're hilarious! 
+sub: - Yes we are! 
+  
+index:346 num:347 time:00:20:33,671 --> 00:20:36,272 from:1233671 to:1236272
+sub: You guys should come down here 
+sub: more often you know, 
+  
+index:347 num:348 time:00:20:36,431 --> 00:20:38,977 from:1236431 to:1238977
+sub: you should see this as a new era 
+sub: for Reynholm Industries. 
+  
+index:348 num:349 time:00:20:39,018 --> 00:20:40,864 from:1239018 to:1240864
+sub: "A new era for Reynholm Industries!" 
+  
+index:349 num:350 time:00:20:42,558 --> 00:20:45,346 from:1242558 to:1245346
+sub: Oh Do you know what! If you want 
+sub: to hear something really funny, 
+  
+index:350 num:351 time:00:20:45,352 --> 00:20:46,501 from:1245352 to:1246501
+sub: a really funny story, 
+  
+index:351 num:352 time:00:20:46,516 --> 00:20:48,205 from:1246516 to:1248205
+sub: you should hear what happened 
+sub: to Moss and I, 
+  
+index:352 num:353 time:00:20:48,224 --> 00:20:49,898 from:1248224 to:1249898
+sub: when we were so drunk in Amsterdam 
+  
+index:353 num:354 time:00:20:49,921 --> 00:20:51,838 from:1249921 to:1251838
+sub: that Moss lost his glasses! 
+  
+index:354 num:355 time:00:20:52,456 --> 00:20:54,068 from:1252456 to:1254068
+sub: Moss! Moss! 
+  
+index:355 num:356 time:00:20:54,745 --> 00:20:55,661 from:1254745 to:1255661
+sub: Come here! Come here! 
+  
+index:356 num:357 time:00:20:55,759 --> 00:20:58,579 from:1255759 to:1258579
+sub: Tell them that story about 
+sub: when we were drunk in Amsterdam. 
+  
+index:357 num:358 time:00:20:58,609 --> 00:20:59,257 from:1258609 to:1259257
+sub: Really? 
+  
+index:358 num:359 time:00:20:59,384 --> 00:21:00,850 from:1259384 to:1260850
+sub: Yeah yeah yeah! Oh it's brilliant! 
+  
+index:359 num:360 time:00:21:00,872 --> 00:21:02,691 from:1260872 to:1262691
+sub: Oh this a great story, 
+sub: you're gonna love it! 
+  
+index:360 num:361 time:00:21:02,761 --> 00:21:04,545 from:1262761 to:1264545
+sub: I'm just gonna get another box of wine! 
+  
+index:361 num:362 time:00:21:06,634 --> 00:21:07,911 from:1266634 to:1267911
+sub: Well go on, then. 
+  
+index:362 num:363 time:00:21:09,607 --> 00:21:10,818 from:1269607 to:1270818
+sub: All right. 
+  
+index:363 num:364 time:00:21:11,970 --> 00:21:15,962 from:1271970 to:1275962
+sub: - Well, one night, we were really drunk. 
+sub: - Yeah. 
+  
+index:364 num:365 time:00:21:16,203 --> 00:21:21,370 from:1276203 to:1281370
+sub: And huh, we were so drunk 
+sub: that we decided to hire prostitutes. 
+  
+index:365 num:366 time:00:21:22,916 --> 00:21:26,154 from:1282916 to:1286154
+sub: And when they arrived to the hotel, 
+sub: we were too scared to do anything, 
+  
+index:366 num:367 time:00:21:26,199 --> 00:21:27,936 from:1286199 to:1287936
+sub: so we brought them to the fair. 
+  
+index:367 num:368 time:00:21:28,826 --> 00:21:31,712 from:1288826 to:1291712
+sub: Oh really nice! In the end, 
+sub: they only charged us half. 
+  
+index:368 num:369 time:00:21:31,803 --> 00:21:33,844 from:1291803 to:1293844
+sub: But we did have to pay 
+sub: for all the rides. 
+  
+index:369 num:370 time:00:21:40,158 --> 00:21:43,136 from:1300158 to:1303136
+sub: Oh isn't that just the best story? 
+  
+index:370 num:371 time:00:21:43,348 --> 00:21:44,775 from:1303348 to:1304775
+sub: Oh, man! 
+  
+index:371 num:372 time:00:21:44,993 --> 00:21:47,239 from:1304993 to:1307239
+sub: You told me to never tell that story 
+sub: to anyone. 
+  
+index:372 num:373 time:00:21:47,264 --> 00:21:49,512 from:1307264 to:1309512
+sub: Well,  what're you talking about? 
+sub: That's a brilliant story! 
+  
+index:373 num:374 time:00:21:49,542 --> 00:21:51,162 from:1309542 to:1311162
+sub: And then you nearly walked 
+sub: into the canal! 
+  
+index:374 num:375 time:00:21:51,185 --> 00:21:53,023 from:1311185 to:1313023
+sub: Has it got to that part 
+sub: with the boatman? 
+  
+index:375 num:376 time:00:21:56,685 --> 00:21:59,821 from:1316685 to:1319821
+sub: Do you mean the story 
+sub: when I lost my glasses? 
+  
+index:376 num:377 time:00:22:03,645 --> 00:22:04,856 from:1323645 to:1324856
+sub: Yes! 
+  
+index:377 num:378 time:00:22:09,131 --> 00:22:11,573 from:1329131 to:1331573
+sub: What story did you think I mean? 
+  
+index:378 num:379 time:00:22:12,406 --> 00:22:13,570 from:1332406 to:1333570
+sub: Moss? 
+  
+index:379 num:380 time:00:22:15,022 --> 00:22:18,352 from:1335022 to:1338352
+sub: What did you say?! What did you say?! 
+  
+index:380 num:381 time:00:22:20,568 --> 00:22:22,113 from:1340568 to:1342113
+sub: It's all right for you two. 
+  
+index:381 num:382 time:00:22:23,077 --> 00:22:25,605 from:1343077 to:1345605
+sub: You're used to being social social piranhas... 
+  
+index:382 num:383 time:00:22:28,883 --> 00:22:31,946 from:1348883 to:1351946
+sub: I'm a very popular person usually. 
+  
+index:383 num:384 time:00:22:31,975 --> 00:22:36,887 from:1351975 to:1356887
+sub: That girl earlier, that tried 
+sub: to beat me to death with her shoes, 
+  
+index:384 num:385 time:00:22:37,113 --> 00:22:38,947 from:1357113 to:1358947
+sub: did anybody get her number? 
+  
+index:385 num:386 time:00:22:40,003 --> 00:22:42,398 from:1360003 to:1362398
+sub: That was a nice day the fair, wasn't it? 
+  
+index:386 num:387 time:00:22:45,074 --> 00:22:47,204 from:1365074 to:1367204
+sub: With Brandy and Crystal! 
+  
+index:387 num:388 time:00:22:50,477 --> 00:22:51,850 from:1370477 to:1371850
+sub: Hello I.T.? 
+  
+index:388 num:389 time:00:22:53,452 --> 00:22:56,228 from:1373452 to:1376228
+sub: Yeah. Have you tried turning it off 
+sub: and on again? 
+  
+index:389 num:390 time:00:23:27,639 --> 00:23:30,476 from:1407639 to:1410476
+sub: Hello ! Hello ! 
+  
